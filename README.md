@@ -15,8 +15,8 @@
 - 📫 How to reach me **hgamiui9@gmail.com.**
 - :sunny: Do you believe in light? **I do.**
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=ccbond&count_private=true&show_icons=true&&bg_color=30,e96443,1107,0&title_color=fff&text_color=fff&icon_color=fff"/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccbond&layout=compact&bg_color=30,e96443,1107,0&title_color=fff&text_color=fff"/>
+  <img width="400" height="200" src="https://github-readme-stats-kkm4-pk4gfa9uz-hgamiui9.vercel.app/api?username=ccbond&count_private=true&show_icons=true&&bg_color=30,e96443,1107,0&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img width="400" height="200" src="https://github-readme-stats-kkm4-pk4gfa9uz-hgamiui9.vercel.app/api/top-langs/?username=ccbond&layout=compact&bg_color=30,e96443,1107,0&title_color=fff&text_color=fff"/>
 </p>
 
 <div align=center>
