@@ -23,8 +23,12 @@ jobs:
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
+      # Commit and push all changed files.
+      - name: GIT Commit Build Artifacts (coverage, dist, devdist, docs)
+        # Only run on main branch push (e.g. after pull request merge).
+        if: github.event_name == 'push'
+        run: |
+          git config --global user.name "ccbond"
+          git config --global user.email "1315275049@qq.com"
+          git commit -a -m "update svg"
+          git push
