@@ -5,14 +5,14 @@
 
 <img align="right" alt="GIF" width="400" src ="https://syntsugar-bowl-1255356725.cos.ap-beijing.myqcloud.com/bond.gif" />
 
-- :couple_with_heart: I'm in one greate organization **SyntSugar.**
-- :kissing_cat: I'm an **Smart contract development engineer**
+- :couple_with_heart: I'm in the best organization **SyntSugar.**
+- :kissing_cat: I'm an **Smart contract development engineer.**
 - 🔭 I’m currently working on **Solana，Aptos and Sui.**
 - 💬 Ask me about **move，rust, typescript and python.**
 - 🌱 I’m currently learning **Prompt of ChatGPT.**
-- 📝 I regularly write articles on [www.cjl946.com](www.cjl946.com)
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ccbond)
-- 📫 How to reach me **hgamiui9@gmail.com**
+- 📝 I regularly write articles on [www.cjl946.com].(www.cjl946.com)
+- 👨‍💻 All of my projects are available at [GitHub].(https://github.com/ccbond)
+- 📫 How to reach me **hgamiui9@gmail.com.**
 - :sunny: Do you believe in light? **I do.**
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=ccbond&count_private=true&show_icons=true&&bg_color=30,e96443,1107,0&title_color=fff&text_color=fff&icon_color=fff"/>
