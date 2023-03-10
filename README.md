@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **Solana，Aptos and Sui.**
 - 💬 Ask me about **move，rust, typescript and python.**
 - 🌱 I’m currently learning **Prompt of ChatGPT.**
-- 📝 I regularly write articles on [www.cjl946.com].(www.cjl946.com)
-- 👨‍💻 All of my projects are available at [GitHub].(https://github.com/ccbond)
+- 📝 I regularly write articles on [www.cjl946.com](www.cjl946.com).
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ccbond).
 - 📫 How to reach me **hgamiui9@gmail.com.**
 - :sunny: Do you believe in light? **I do.**
 <p align="center">
