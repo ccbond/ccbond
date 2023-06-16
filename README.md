@@ -1,4 +1,4 @@
-```
+```rust
 struct Attributes;
 
 impl Attributes {
