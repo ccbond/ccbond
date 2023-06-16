@@ -11,10 +11,10 @@ impl Attributes {
 
     fn life() -> (Vec<String>, u32) {
         let langs = vec![
-            String::from("Chinses"),
+            String::from("Chinese"),
             String::from("English"),
         ];
-        let age = 17;
+        let age = 24;
 
         (langs, age)
     }
