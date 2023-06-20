@@ -21,8 +21,8 @@ impl Attributes {
 
     fn coding() -> (Vec<(String, Vec<String>)>, Vec<String>, Vec<String>) {
         let mut langs = Vec::new();
-        langs.push((String::from("expert"), vec![String::from("rust"), vec![String::from("go")]));
-        langs.push((String::from("intermediate"), String::from("typescript"), String::from("python")]));
+        langs.push((String::from("expert"), vec![String::from("rust"), String::from("go")]));
+        langs.push((String::from("intermediate"), vec![String::from("typescript"), String::from("python")]));
         langs.push((
             String::from("learning"),
             vec![
